@@ -1,6 +1,6 @@
 👋 Hi, I’m @mattiapitossi
 
-I'm a Backend Engineer working in the Fintech industry. My main language is Java, and I am currently learning more about Scala and Kotlin.
+I'm a Backend Engineer working in the Fintech industry. My main languages are Java and Scala, and I am currently learning more about Kotlin and Rust.
 
 
 <!---

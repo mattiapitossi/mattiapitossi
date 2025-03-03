@@ -3,6 +3,12 @@
 I'm a Backend Engineer working in the Fintech industry. My main languages are Java and Scala, and I am currently learning more about Rust.
 
 <div align = "center">
+  
+  ![Mattia's GitHub stats](https://github-readme-stats.vercel.app/api?username=mattiapitossi&show_icons=true&theme=transparent)
+
+</div>
+
+<div align = "center">
   <h4>
    Stack
   </h4>
